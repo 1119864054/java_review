@@ -375,7 +375,7 @@
 
 ​		https://www.cnblogs.com/hupp/p/4487521.html
 
-### 工厂模式	[(check)](设计模式相关\工厂模式.md)
+### 工厂模式	[(check)](设计模式相关/工厂模式.md)
 
 ### 代理模式
 
